@@ -26,5 +26,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![image](https://github.com/user-attachments/assets/136d3c28-68ad-47ea-9b25-f17dafcab084)
+![image](https://github.com/user-attachments/assets/968c8186-e6ad-47f4-9cbb-f46b4ae30b1d)
 
 ### Result:
+Thus , sucessfully implemented the preprocessing .
